@@ -1,0 +1,5 @@
+# The config below is to have the kitty sword effects inside of helix
+[editor.cursor-shape]
+    normal = "bar"
+    insert = "bar"
+    select = "bar"

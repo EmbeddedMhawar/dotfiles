@@ -1,0 +1,12 @@
+[config]
+reload_apps = true
+
+[templates.niri]
+input_path = "~/.config/matugen/templates/niri.kdl"
+output_path = "~/.config/niri/config.kdl"
+
+[templates.kitty]
+input_path = "~/.config/matugen/templates/kitty-colors.conf"
+output_path = "~/.config/kitty/colors.conf"
+
+
